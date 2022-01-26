@@ -5,38 +5,39 @@ body {
   background: #FF8A5B;
 /*   color: #B8E1FF */
   color: #FFE66D;
-  margin: 2em;
+  margin: 3em;
   font-family: 'Dongle', sans-serif;
   
 }
 
 h2 {
-/*   font-size: 1em; */
+   font-size: 4em;
 /*   padding: 0em 0.5em 0em 0.5em; */
 }
 
 a {
   text-decoration: none;
   background-color: #FFE66D;
-/*   margin-top: 1em; */
-  font-size: 1.5em !important;
+   margin-top: 1em;
+   margin-bottom: 1em;
+  font-size: 2.5em !important;
 }
 
 h1 {
-  font-size: 3.25em;
+  font-size: 8em;
   line-height: 80%;
   font-weight: bold;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: #231651;
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 3.5em;
   line-height: 90%;
 /*   color: #231651 */
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1000px) {
     body {
       text-align: center;
       background: #FF8A5B;
