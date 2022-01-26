@@ -37,26 +37,14 @@ p {
 /*   color: #231651 */
 }
 
-@media only screen and (min-width: 700px) {
-    body {
-      text-align: center;
-      background: #FF8A5B;
-    /*   color: #B8E1FF */
-      color: #FFE66D;
-      margin: 2em;
-      font-family: 'Dongle', sans-serif;
-
-    }
+@media only screen and (min-width: 1000px) {
 
     h2 {
-    /*   font-size: 1em; */
-      padding: 0em 2em 0em 2em;
+       font-size: 3em;
+    /*   padding: 0em 0.5em 0em 0.5em; */
     }
 
     a {
-      text-decoration: none;
-      background-color: #FFE66D;
-    /*   margin-top: 1em; */
       font-size: 1.5em !important;
     }
 
@@ -65,7 +53,6 @@ p {
       font-size: 5em;
       font-weight: bold;
       -webkit-text-stroke-width: 1.5px;
-      -webkit-text-stroke-color: #231651;
     }
 
     p {
