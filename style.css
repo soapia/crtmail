@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
+
+body {
+  text-align: center;
+  background: #FF8A5B;
+/*   color: #B8E1FF */
+  color: #FFE66D;
+  margin: 2em;
+  font-family: 'Dongle', sans-serif;
+  
+}
+
+h2 {
+/*   font-size: 1em; */
+/*   padding: 0em 0.5em 0em 0.5em; */
+}
+
+a {
+  text-decoration: none;
+  background-color: #FFE66D;
+/*   margin-top: 1em; */
+  font-size: 1.5em !important;
+}
+
+h1 {
+  font-size: 3.25em;
+  line-height: 80%;
+  font-weight: bold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #231651;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 90%;
+/*   color: #231651 */
+}
+
+@media only screen and (min-width: 768px) {
+    body {
+      text-align: center;
+      background: #FF8A5B;
+    /*   color: #B8E1FF */
+      color: #FFE66D;
+      margin: 2em;
+      font-family: 'Dongle', sans-serif;
+
+    }
+
+    h2 {
+    /*   font-size: 1em; */
+      padding: 0em 2em 0em 2em;
+    }
+
+    a {
+      text-decoration: none;
+      background-color: #FFE66D;
+    /*   margin-top: 1em; */
+      font-size: 1.5em !important;
+    }
+
+    h1 {
+      line-height: 100%;
+      font-size: 5em;
+      font-weight: bold;
+      -webkit-text-stroke-width: 1.5px;
+      -webkit-text-stroke-color: #231651;
+    }
+
+    p {
+      font-size: 1.65em;
+      line-height: 100%;
+    /*   color: #231651 */
+    }
+}
