@@ -37,6 +37,10 @@ p {
 /*   color: #231651 */
 }
 
+footer {
+    font-size: 2em;
+}
+
 @media only screen and (min-width: 1000px) {
 
     h2 {
@@ -60,4 +64,6 @@ p {
       line-height: 100%;
     /*   color: #231651 */
     }
+  
+    
 }
