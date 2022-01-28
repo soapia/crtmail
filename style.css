@@ -15,7 +15,7 @@ h2 {
 /*   padding: 0em 0.5em 0em 0.5em; */
 }
 
-a {
+.btn {
   text-decoration: none;
   background-color: #FFE66D;
    margin-top: 1em;
@@ -41,6 +41,11 @@ footer {
     font-size: 2em;
 }
 
+.gz4c {
+/*    text-decoration: none;*/
+    color: #FFE66D;
+}
+
 @media only screen and (min-width: 1000px) {
 
     h2 {
@@ -48,7 +53,7 @@ footer {
     /*   padding: 0em 0.5em 0em 0.5em; */
     }
 
-    a {
+    .btn {
       font-size: 1.5em !important;
     }
 
